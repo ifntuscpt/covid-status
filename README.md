@@ -1,8 +1,8 @@
 # COVID-19 Status
 
-### [Live Site]()
+### [Live Site](https://status-covid.vercel.app)
 
-![COVID-19 Status]()
+![COVID-19 Status](https://cdn.discordapp.com/attachments/793131718927712269/966742417426505778/unknown.png)
 
 ## Introduction
 
