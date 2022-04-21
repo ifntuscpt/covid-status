@@ -2,7 +2,7 @@
 
 ### [Live Site](https://status-covid.vercel.app)
 
-![COVID-19 Status](https://cdn.discordapp.com/attachments/793131718927712269/966742417426505778/unknown.png)
+![COVID-19 Status](https://drive.google.com/file/d/1PqmQOl4yFY5XHKRIEDSMG9co200tOC01/view?usp=sharing)
 
 ## Introduction
 
